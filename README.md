@@ -1,7 +1,9 @@
 # SCRYMAGE
 Statistical Card Rarity Yield &amp; Meta Analysis for Game Evaluation
 
-*“ALL CHAOS IS ORDER DISGUISED - BROKEN SEALS REVEAL THE TRUTH”*                                                             
+*“ALL CHAOS IS ORDER DISGUISED - BROKEN SEALS REVEAL THE TRUTH”*
+
+```text                                                    
                                                [@@@*@@@@                                             
                                             @@@         @@                                           
                                          @@]               @@                                        
