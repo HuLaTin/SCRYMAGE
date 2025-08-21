@@ -1,0 +1,98 @@
+{
+  "set_codes": { "main": "fin", "bonus": "fca" },
+  "slots": [
+    {
+      "name": "land",
+      "count": 1,
+      "options": [
+        {
+          "option": "town",
+          "probability": 0.55,
+          "foil_probability": 0.2,
+          "set": "fin",
+          "query": "s:fin t:land t:town r:common is:nonfoil lang:en unique:prints is:booster -is:dfc",
+          "foil_query": "s:fin t:land t:town r:common is:nonfoil lang:en unique:prints is:booster -is:dfc"
+        },
+        {
+          "option": "basic",
+          "probability": 0.45,
+          "foil_probability": 0.2,
+          "set": "fin",
+          "numbers": [
+          ],
+          "query": "s:fin t:land t:basic is:nonfoil lang:en unique:prints is:booster",
+          "foil_query": "s:fin t:land t:basic is:foil lang:en unique:prints is:booster"
+        }
+      ]
+    },
+    {
+      "name": "nonland_commons",
+      "count": 6,
+      "options": [
+        {
+          "option": "common",
+          "probability": 1,
+          "foil_probability": 0,
+          "set": "fin",
+          "query": "s:fin -t:land r:common is:nonfoil lang:en unique:prints is:booster -is:dfc"
+        }
+      ]
+    },
+    {
+      "name": "nonland_commons_bonus",
+      "count": 1,
+      "options": [
+        {
+          "option": "common",
+          "probability": 0.67,
+          "foil_probability": 0,
+          "set": "fin",
+          "query": "s:fin -t:land r:common is:nonfoil lang:en unique:prints is:booster -is:dfc"
+        },
+        {
+          "option": "bonus_sheet",
+          "probability": 0.33,
+          "foil_probability": 0,
+          "set": "fca",
+          "query": "s:fca -t:land r:common is:nonfoil lang:en unique:prints is:booster",
+          "options": [
+            {
+              "option": "bonus_sheet_uncommon",
+              "probability": 0.6325,
+              "foil_probability": 0,
+              "set": "fca",
+              "query": "s:fca r:uncommon lang:en unique:prints"
+            },
+            {
+              "option": "bonus_sheet_rare",
+              "probability": 0.2975,
+              "foil_probability": 0,
+              "set": "fca",
+              "query": "s:fca r:rare lang:en unique:prints"
+            },
+            {
+              "option": "bonus_sheet_mythic",
+              "probability": 0.07,
+              "foil_probability": 0,
+              "set": "fca",
+              "query": "s:fca r:mythic lang:en unique:prints"
+            }
+          ]
+        },
+        {
+          "name": "uncommons",
+          "count": 3,
+          "options": [
+            {
+              "option": "uncommon",
+              "probability": 0.07,
+              "foil_probability": 0,
+              "set": "fin",
+              "query": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
