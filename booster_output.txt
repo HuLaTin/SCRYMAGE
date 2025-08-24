@@ -1,0 +1,220 @@
+[
+  {
+    "id": "c2dcfd0a-3f52-4616-a09a-fd2db8b6b93e",
+    "tcgplayer_id": 634192,
+    "name": "Thief's Knife",
+    "mana_cost": "{2}{U}",
+    "type_line": "Artifact \u2014 Equipment",
+    "oracle_text": "Job select (When this Equipment enters, create a 1/1 colorless Hero creature token, then attach this to it.)\nEquipped creature gets +1/+1, has \"Whenever this creature deals combat damage to a player, draw a card,\" and is a Rogue in addition to its other types.\nEquip {4}",
+    "colors": [
+      "U"
+    ],
+    "keywords": [
+      "Job select",
+      "Equip"
+    ],
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "set": "fin",
+    "prices": {
+      "usd": "0.09",
+      "usd_foil": "0.17",
+      "usd_etched": null,
+      "eur": "0.05",
+      "eur_foil": "0.20",
+      "tix": "0.03"
+    }
+  },
+  {
+    "id": "0ce05634-6c01-4941-a135-904cb4e33ac4",
+    "tcgplayer_id": 632002,
+    "name": "Galuf's Final Act",
+    "mana_cost": "{1}{G}",
+    "type_line": "Instant",
+    "oracle_text": "Until end of turn, target creature gets +1/+0 and gains \"When this creature dies, put a number of +1/+1 counters equal to its power on up to one target creature.\"",
+    "colors": [
+      "G"
+    ],
+    "keywords": [],
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "set": "fin",
+    "flavor_text": "\"I'll destroy you Exdeath... even if it means I have to take you into the afterlife myself!\"",
+    "prices": {
+      "usd": "0.08",
+      "usd_foil": "0.21",
+      "usd_etched": null,
+      "eur": "0.06",
+      "eur_foil": "0.22",
+      "tix": "0.03"
+    }
+  },
+  {
+    "id": "e48cf6d5-4d32-4b66-80be-3495ecd3e906",
+    "tcgplayer_id": 634160,
+    "name": "Iron Giant",
+    "mana_cost": "{7}",
+    "type_line": "Artifact Creature \u2014 Demon",
+    "oracle_text": "Vigilance, reach, trample",
+    "power": "6",
+    "toughness": "6",
+    "colors": [],
+    "keywords": [
+      "Reach",
+      "Vigilance",
+      "Trample"
+    ],
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "set": "fin",
+    "flavor_text": "The iron giant is both hostile and powerful, using a giant blade to fell its foes. The mere mention of its name strikes fear in the hearts of drivers who know how perilous the roads are at night.",
+    "prices": {
+      "usd": "0.08",
+      "usd_foil": "0.10",
+      "usd_etched": null,
+      "eur": "0.03",
+      "eur_foil": "0.10",
+      "tix": "0.03"
+    }
+  },
+  {
+    "id": "99582781-613e-4a33-aec7-7569b4a961aa",
+    "tcgplayer_id": 633201,
+    "name": "Gohn, Town of Ruin",
+    "mana_cost": "",
+    "type_line": "Land \u2014 Town",
+    "oracle_text": "This land enters tapped.\n{T}: Add {B} or {G}.",
+    "colors": [],
+    "keywords": [],
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "set": "fin",
+    "flavor_text": "\"They say that beyond the dunes is the Town of Ruin, but no one can even enter the desert to find out, let alone cross it.\"\n\u2014Cid Previa",
+    "prices": {
+      "usd": "0.13",
+      "usd_foil": "0.18",
+      "usd_etched": null,
+      "eur": "0.09",
+      "eur_foil": "0.14",
+      "tix": "0.03"
+    }
+  },
+  {
+    "id": "8ac3d2c9-5978-4cfb-a746-c901decff093",
+    "tcgplayer_id": 634387,
+    "name": "Sidequest: Card Collection // Magicked Card",
+    "type_line": "Enchantment // Artifact \u2014 Vehicle",
+    "keywords": [
+      "Flying",
+      "Transform",
+      "Crew"
+    ],
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "set": "fin",
+    "prices": {
+      "usd": "0.05",
+      "usd_foil": "0.18",
+      "usd_etched": null,
+      "eur": "0.06",
+      "eur_foil": "0.26",
+      "tix": "0.03"
+    }
+  },
+  {
+    "id": "2520ab23-a068-4462-b261-2754409b4108",
+    "tcgplayer_id": 630935,
+    "name": "Dark Confidant",
+    "mana_cost": "{1}{B}",
+    "type_line": "Creature \u2014 Human Wizard",
+    "oracle_text": "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.",
+    "power": "2",
+    "toughness": "1",
+    "colors": [
+      "B"
+    ],
+    "keywords": [],
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "set": "fin",
+    "flavor_text": "\"Fare you well, Bringer of Light.\"",
+    "prices": {
+      "usd": "5.22",
+      "usd_foil": "6.99",
+      "usd_etched": null,
+      "eur": "5.64",
+      "eur_foil": "6.10",
+      "tix": null
+    }
+  },
+  {
+    "id": "ad304c9c-943f-442f-bb82-ff378ad7d7ba",
+    "tcgplayer_id": 633061,
+    "name": "Ice Flan",
+    "mana_cost": "{4}{U}{U}",
+    "type_line": "Creature \u2014 Elemental Ooze",
+    "oracle_text": "When this creature enters, tap target artifact or creature an opponent controls. Put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nIslandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)",
+    "power": "5",
+    "toughness": "4",
+    "colors": [
+      "U"
+    ],
+    "keywords": [
+      "Islandcycling",
+      "Landcycling",
+      "Typecycling",
+      "Cycling"
+    ],
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "set": "fin",
+    "prices": {
+      "usd": "0.04",
+      "usd_foil": "0.11",
+      "usd_etched": null,
+      "eur": "0.06",
+      "eur_foil": "0.09",
+      "tix": "0.03"
+    }
+  },
+  {
+    "id": "eec70281-7bdf-46b8-903e-a8a46b7d47bf",
+    "name": "Rhino Warrior",
+    "mana_cost": "",
+    "type_line": "Token Creature \u2014 Rhino Warrior",
+    "oracle_text": "",
+    "power": "4",
+    "toughness": "4",
+    "colors": [
+      "G"
+    ],
+    "keywords": [],
+    "finishes": [
+      "nonfoil",
+      "foil"
+    ],
+    "set": "tmkc",
+    "prices": {
+      "usd": null,
+      "usd_foil": null,
+      "usd_etched": null,
+      "eur": null,
+      "eur_foil": null,
+      "tix": null
+    }
+  }
+]

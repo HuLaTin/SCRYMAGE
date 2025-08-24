@@ -207,4 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 # JSON files
-*.json
+*bulk_data.json
